@@ -1,0 +1,2 @@
+# parami
+freeeducation
